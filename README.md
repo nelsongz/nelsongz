@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nelsongz
-- 👀 I’m interested in Node, Vue and Python
-- 🌱 I’m currently learning Vue.js
+- 👀 I’m interested in Node, Vue, Python, Javascript and React, for now ....
 
 
 <!---
